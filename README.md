@@ -1,3 +1,3 @@
 # Youtube Search Engine
 
-https://13thspringmorning.github.io/youtube-search-engine/
+https://13thspringmorning.github.io/Youtube-search-engine/
